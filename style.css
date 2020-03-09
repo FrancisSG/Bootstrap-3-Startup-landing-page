@@ -28,3 +28,9 @@ hr {
 	border: 1px solid #f8f8f8;
 	border-bottom: 1px solid rgba(0,0,0, .2);
 }
+
+.icon {
+    display: block;
+    margin: 5px auto;
+    width: 30px;
+}
